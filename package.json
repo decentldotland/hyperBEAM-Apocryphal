@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build --turbo",
+    "build": "next build --turbopack",
     "start": "next start",
     "lint": "next lint",
     "parse-devices": "node scripts/parse_device_files.js"
