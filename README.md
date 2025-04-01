@@ -1,6 +1,6 @@
 # HyperBEAM Apocryphal
 
-This repository contains an apocryphal documentation website for the HyperBEAM system, a modular system designed for distributed applications.
+This repository contains an apocryphal documentation website for the HyperBEAM system, a modular system designed for distributed applications. 
 
 ## Technology Stack
 
